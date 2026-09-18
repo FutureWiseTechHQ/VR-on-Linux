@@ -8,6 +8,8 @@ NEW: [How To Disable Quest 3 Wear Detection on Linux Mint, Debian, and Windows](
 
 > Both this and the below guides are accessible directly from the Wiki, only.
 
+The Windows version is as yet untested - I am looking for testers so if you are interested please reach out to me. Thanks!
+
 ---
 
 Older still relevant guide if you use Linux Mint:
