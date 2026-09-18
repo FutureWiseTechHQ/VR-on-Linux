@@ -1,20 +1,20 @@
-# VR-on-Linux-Mint
-## How To Play SteamVR (inlcuding UEVR) Games on Linux Mint using a Quest 3 + Nvidia (5080) GPU
+# VR-on-Linux
 
+## How To Guides on using and streaming VR from Linux!
 
-The latest version is currently v1.2, whose release page is here:
+NEW: [[How To Disable Quest 3 Wear Detection on Linux Mint, Debian, and Windows]]
 
-https://github.com/FutureOnVR/VR-on-Linux-Mint/releases/tag/v1.2
+Older still relevant guide if you use Linux Mint:
 
-### Easy access directly to the title and contents page: 
+### How To Play SteamVR (inlcuding UEVR) Games on Linux Mint using a Quest 3 + Nvidia (5080) GPU
 
 [VR on Linux Mint - v1.2](https://github.com/FutureOnVR/VR-on-Linux-Mint/wiki/VR-on-Linux-Mint-v1.2)
 
 > Please note: This update is only available on the Wiki, readable online.
 
-
 ## Useful Links
 
+- [Debian](https://www.debian.org/)
 - [Linux Mint](https://www.linuxmint.com/)
 - [ALVR](https://github.com/alvr-org/ALVR)
 - [WiVRn](https://github.com/WiVRn/WiVRn)
