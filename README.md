@@ -1,6 +1,6 @@
 # VR-on-Linux
 
-## How To Guides on using and streaming VR from Linux!
+## How To Guides VR and Gaming (and streaming) from Linux!
 
 NEW: [[How To Disable Quest 3 Wear Detection on Linux Mint, Debian, and Windows]]
 
