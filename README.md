@@ -14,9 +14,15 @@ The Windows version is as yet untested - I am looking for testers so if you are 
 
 Older still relevant guide if you use Linux Mint:
 
-### How To Play SteamVR (inlcuding UEVR) Games on Linux Mint using a Quest 3 + Nvidia (5080) GPU
+### NOW OUTDATED: How To Play SteamVR (inlcuding UEVR) Games on Linux Mint using a Quest 3 + Nvidia (5080) GPU
 
-[VR on Linux Mint - v1.2](https://github.com/FutureOnVR/VR-on-Linux-Mint/wiki/VR-on-Linux-Mint-v1.2)
+The Link previously here to the latest Linux Mint guide on the Wiki is removed because it's now outdated, due to SteamVR's new versions and new previous version making ALVR not function as previously, at least for me, on a fresh Linux Mint 22.3 system with updated packages.
+
+I have moved on to Nobara 44 running Wayland. 
+
+That Guide is here:
+
+(link)
 
 > Please note: This update is only available on the Wiki, readable online.
 
