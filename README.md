@@ -4,7 +4,7 @@
 
 ## How To Disable Quest 3 Wear Detection on Linux and Windows
 
-NEW: [How To Disable Quest 3 Wear Detection on Linux Mint, Debian, and Windows](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/How-To-Disable-Quest-3-Wear-Detection-on-Linux-Mint%2C-Debian%2C-and-Windows)
+NEW: [How To Disable Quest 3 Wear Detection on (Linux) Nobara 44, Debian 13, Mint 13, and Windows](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/How-To-Disable-Quest-3-Wear-Detection-on-(Linux)-Nobara-44,-Debian-13,-Mint-13,-and-Windows)
 
 > Both this and the below guides are accessible directly from the Wiki, only.
 
