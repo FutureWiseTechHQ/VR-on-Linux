@@ -22,7 +22,7 @@ I have moved on to Nobara 44 running Wayland.
 
 That Guide is here:
 
-(link)
+[VR on Nobara 44 (Quest 3, NVidia GPU)](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/VR-on-Nobara-44-%28Quest-3%2C-NVidia-GPU%29)
 
 > Please note: This update is only available on the Wiki, readable online.
 
