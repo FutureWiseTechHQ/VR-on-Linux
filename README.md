@@ -2,6 +2,14 @@
 
 ## How To Guides VR and Gaming (and streaming) from Linux!
 
+## How to get VR working on Nobara 44
+
+I have moved on to Nobara 44 running Wayland. 
+
+That Guide is here:
+
+[VR on Nobara 44 (Quest 3, NVidia GPU)](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/VR-on-Nobara-44-%28Quest-3%2C-NVidia-GPU%29)
+
 ## How To Disable Quest 3 Wear Detection on Linux and Windows
 
 NEW: [How To Disable Quest 3 Wear Detection on (Linux) Nobara 44, Debian 13, Mint 13, and Windows](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/How-To-Disable-Quest-3-Wear-Detection-on-(Linux)-Nobara-44,-Debian-13,-Mint-13,-and-Windows)
@@ -17,12 +25,6 @@ Older still relevant guide if you use Linux Mint:
 ### NOW OUTDATED: How To Play SteamVR (inlcuding UEVR) Games on Linux Mint using a Quest 3 + Nvidia (5080) GPU
 
 The Link previously here to the latest Linux Mint guide on the Wiki is removed because it's now outdated, due to SteamVR's new versions and new previous version making ALVR not function as previously, at least for me, on a fresh Linux Mint 22.3 system with updated packages.
-
-I have moved on to Nobara 44 running Wayland. 
-
-That Guide is here:
-
-[VR on Nobara 44 (Quest 3, NVidia GPU)](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/VR-on-Nobara-44-%28Quest-3%2C-NVidia-GPU%29)
 
 > Please note: This update is only available on the Wiki, readable online.
 
