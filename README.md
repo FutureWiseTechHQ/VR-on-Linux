@@ -20,7 +20,7 @@ The Windows version is as yet untested - I am looking for testers so if you are 
 
 ---
 
-Older still relevant guide if you use Linux Mint:
+Older:
 
 ### NOW PARTIALLY OUTDATED: How To Play SteamVR (inlcuding UEVR) Games on Linux Mint using a Quest 3 + Nvidia (5080) GPU
 
