@@ -8,7 +8,7 @@ I have moved on to Nobara 44 running Wayland.
 
 - Native SteamVR version:
 
-[[Native SteamVR to Quest 3 (https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/Native-SteamVR-to-Quest-3-%28Nvidia-GPU%2C-Cabled-and-Wifi%29]]
+[Native SteamVR to Quest 3](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/Native-SteamVR-to-Quest-3-%28Nvidia-GPU%2C-Cabled-and-Wifi%29)
 
 - WiVRn version:
 
