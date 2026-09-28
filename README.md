@@ -8,11 +8,16 @@ I have moved on to Nobara 44 running Wayland.
 
 - Native SteamVR version:
 
-[Native SteamVR to Quest 3](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/Native-SteamVR-to-Quest-3-%28Nvidia-GPU%2C-Cabled-and-Wifi%29)
+[Native SteamVR to Quest 3 on Nobara 44](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/Native-SteamVR-to-Quest-3-%28Nvidia-GPU%2C-Cabled-and-Wifi%29)
+
+_First published 28th September 2026_
 
 - WiVRn version:
 
 [VR on Nobara 44 (Quest 3, NVidia GPU)](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/VR-on-Nobara-44-%28Quest-3%2C-NVidia-GPU%29)
+
+_First published 26th September 2026_
+
 
 ## How To Disable Quest 3 Wear Detection on Linux and Windows
 
