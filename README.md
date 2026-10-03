@@ -14,7 +14,7 @@ _First published 28th September 2026_
 
 - WiVRn version:
 
-[VR on Nobara 44 - Quest 3, NVidia GPU]([https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/VR-on-Nobara-44-%28Quest-3%2C-NVidia-GPU%29](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/VR-on-Nobara-44-%28Quest-3%2C-NVidia-GPU%29-using-WiVRn-%28Not-SteamVR%29)
+[VR on Nobara 44 - Quest 3 & NVidia GPU](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/VR-on-Nobara-44-%28Quest-3%2C-NVidia-GPU%29](https://github.com/FutureWiseTechHQ/VR-on-Linux/wiki/VR-on-Nobara-44-%28Quest-3%2C-NVidia-GPU%29-using-WiVRn-%28Not-SteamVR%29)
 
 _First published 26th September 2026_
 
